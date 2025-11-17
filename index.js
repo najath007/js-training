@@ -1,5 +1,6 @@
 const Mylist = ["Banana", "Orange", "Apple", "Mango"]
-console.log(Mylist.length,Mylist.at(2));
+const names =["Emil", "Tobias", "Linus"]
+console.log(Mylist.length,Mylist.at(2),Mylist.toString(),Mylist.concat(names));
 
 
 
